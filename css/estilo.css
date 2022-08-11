@@ -195,7 +195,7 @@ h4 {
 
 }
 
-@media screen and (max-width:375px){
+@media screen and (max-width:400px){
     .program{
         width: 375px;
     }
